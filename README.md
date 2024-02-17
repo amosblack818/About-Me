@@ -1,0 +1,6 @@
+# About Me
+
+## Hello World!
+I'm super excited to get started on this coding journey! As a University student, I know I'll get to learn a lot in the Hacking Club!
+
+Feel free to reach out to me @gmail.com to collab!
